@@ -27,7 +27,13 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                 return response
             }
         }
-        
+//        
+//        
+//        GithubAPIClient.getRepositories { repos in
+//            print("Hell yea")
+//            print("What are the repos: \(repos)")
+//        }
+//        
         
         
         return true
